@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chanakadev&label=Profile%20views&color=0e75b6&style=flat" alt="chanakadev" /> </p>
 
-- 👨‍💻 All of my projects are available at [about.me/chanakanb](about.me/chanakanb)
+- 👨‍💻 All of my projects are available at [about.me](https://about.me/chanakanb/)
 
-- 📝 I regularly write articles on [https://medium.com/@chanakadev](https://medium.com/@chanakadev)
+- 📝 I regularly write articles on [medium.com](https://medium.com/@chanakadev)
 
 - 💬 Ask me about **Flutter, React Native, MEAN, MERN**
 
