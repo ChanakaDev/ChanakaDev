@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://rfa.com/wp-content/uploads/2023/06/Is-AI-a-real-benefit-in-day-to-day-business-operations-%E2%80%93-Part-1.jpg)
 
 <h1 align="center">Hi 👋, I'm Chanaka</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
