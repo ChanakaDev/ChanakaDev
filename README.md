@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [medium.com](https://medium.com/@chanakadev)
 
-- 💬 Ask me about **Flutter, React Native, MEAN, MERN**
+- 💬 Ask me about **MERN Stack, NestJS, FastAPI & Flutter**
 
 - 📫 How to reach me **mr.mbcnb@gmail.com**
 
