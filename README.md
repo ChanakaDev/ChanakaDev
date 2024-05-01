@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mr.mbcnb@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **JK.. Just Kidding**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
