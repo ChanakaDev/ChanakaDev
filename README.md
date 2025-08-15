@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **MERN Stack, NestJS, FastAPI & Flutter**
 
-- 📫 How to reach me **mr.mbcnb@gmail.com**
+- 📫 How to reach me **chanakabandara@gmail.com**
 
 - ⚡ Fun fact **JK.. Just Kidding**
 
