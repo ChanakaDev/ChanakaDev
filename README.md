@@ -39,8 +39,6 @@ I am a **researcher and lecturer** based in Sri Lanka, specialising in **Artific
 | **[Project 4](#)** | A brief description of what this project does and why it's cool. | Python     | Completed |
 | **[Project 5](#)** | A brief description of what this project does and why it's cool. | Python     | Completed |
 
----
-
 ## 🛠️ Core Expertise
 
 ### AI · ML · Robotics
@@ -72,8 +70,6 @@ I am a **researcher and lecturer** based in Sri Lanka, specialising in **Artific
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,xd,svg,sass,tailwind,bootstrap,html,css&perline=8" />
 </p>
-
----
 
 ## 📊 GitHub Stats
 
@@ -108,6 +104,7 @@ I am a **researcher and lecturer** based in Sri Lanka, specialising in **Artific
     <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
   </a>
   &nbsp;
+  <br>
   <a href="https://youtube.com/@your-youtube" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
