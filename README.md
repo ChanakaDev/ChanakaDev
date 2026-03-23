@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:2c5364,50:203a43,100:0f2027&text=Chanaka%20Bandara&fontColor=ffffff" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f9b58,50:0a7ea4,100:0d4f8b&text=Chanaka%20Bandara&fontColor=ffffff" width="100%">
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ChanakaDev&style=flat-square&color=2c5364&label=Profile+Views" alt="Profile Views"/>
@@ -119,5 +119,5 @@ I am a **researcher and lecturer** based in Sri Lanka, specialising in **Artific
 </p>
  
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f9b58,50:0a7ea4,100:0d4f8b&height=100&section=footer" width="100%"/>
 </div>
